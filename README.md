@@ -1,5 +1,7 @@
 # Tarea de MIPS \#2
 
+Alumno: Agustin Carrivale
+
 Ejercicios de lenguaje ensamblador. Más información en [el blog](https://la35.net/orga/mips-funciones.html). Para probar los programas pueden usar el SPIM.
 
 ## Ejercicio
